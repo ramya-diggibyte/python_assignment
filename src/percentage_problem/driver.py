@@ -1,4 +1,4 @@
 #from src.percentage_problem.util import *
 from python_assignment.src.percentage_problem.util import *
-result=percent_calculation({'Ramya':[67,68,69], 'Alanis':[70,98,63],'Manoj':[52,56,60]},'Ramya')
-print(result)
+percentage_result =percent_calculation({'Ramya': [20,25,27,30], 'Alanis':[64,62],'Janet':[5,56]},'Ramya')
+print(percentage_result)
